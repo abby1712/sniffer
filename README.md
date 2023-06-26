@@ -1,4 +1,8 @@
 # sniffer
+Source Code Is Strictly Not for Commercial Use.
+Permission Required to Use the Code For Academics
+
+
 Sniffer is a conceptual framework for Smart Device Proximity Mapping, enabling real-time tracking and visualization of connected devices.
 
 Sniffer Scanner With MLP: https://github.com/abby1712/sniffer/blob/main/scanDevicesWithMLP.ino
